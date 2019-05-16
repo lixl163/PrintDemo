@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\0fb47c09836aa00ae3619adb71a77173d116f647\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_788ec849f05560f6b5e953f013013e732d147d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\da3dc4a18a40920cd8eb1f73b8c221d015590b15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_c234f2d749ffc89da685345d1787663be4ee0bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_158c1d1826eccf3d5a35d0d7073d0960eaca11ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\ef3483c2105cc5a14e2b05e306f34369eb636523\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_93721e180a119922345b107349db75357d115a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\99b28662c91cfaa045a62d76c25044db93d4c625\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_02b6aa58907fc1a597515af74f80b70b3527dea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\cbc01521981af2b19c2681147b02df24b197db3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_d715f0977e46217dfa70b52f5a1815203c07e887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\b33649e701584be4e5cd9dec15fa3b755dd2ee3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_9b34f80e527229dee89ea62df36f28c0e18bb8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\f1006d63b82bcc65b5648700ab4c182037ffe94d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_918e4fd46f2abe74af24454c5a41079c37adf6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\f0fc22f6e7ce4229651c40fcab555b4d9786d8f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_fa86576af3fbcfb59a1ba0f6eca0acde331cccb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\1f0f73a94e24e25262da4d7ca800be61176eeb2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="F:\workspace_zs\PrintDemo\app\build\intermediates\pre-dexed\debug\classes_b0d491ee1462acdcc645203cdcb67333cf51bd56.jar" />
+    </item>
+
+</items>

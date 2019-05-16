@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_print"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tv_desc"
+        android:text="主要用于东集智能终端POS机器"
+        android:textColor="@color/colorAccent"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:text="打印"
+        android:id="@+id/bt_print"
+        android:layout_below="@id/tv_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="show Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="160dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/showText"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <Button
+            android:text="走纸"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/printBlankLine" />
+
+        <Button
+            android:text="打印图片"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/printImage" />
+
+        <Button
+            android:text="打印条形码"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/printBarCode" />
+
+        <Button
+            android:text="打印二维码"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/printQrCode" />
+        <Button
+            android:text="打印结算单"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/printText" />
+    </LinearLayout>
+
+</RelativeLayout>
